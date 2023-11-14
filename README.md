@@ -13,7 +13,7 @@
 
 
 ## Author
-👤 **Rayan Ahmed ,  **ibrahim Alghofili , **Abdullah Aldosari , **Abdulmajeed Alrashodi
+👤 **Rayan Ahmed** ,  **ibrahim Alghofili** , **Abdullah Aldosari** , **Abdulmajeed Alrashodi**
 ## Show your support
 Give a ⭐️ if this project helped you!
 ***
